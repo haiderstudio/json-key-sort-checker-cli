@@ -1,0 +1,24 @@
+{
+  "Empty": {},
+  "Name": "a",
+  "name": "b",
+  "nested": {
+    "a": {
+      "b": {
+        "c": []
+      }
+    }
+  },
+  "numbers": [
+    1,
+    2,
+    3
+  ],
+  "single": 1,
+  "unicode": {
+    "zebra": 2,
+    "éclair": 1
+  },
+  "with space": "a string: with a colon",
+  "zzz": null
+}

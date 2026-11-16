@@ -1,0 +1,25 @@
+{
+  "Apricot": 1,
+  "banana": {
+    "cherry": true,
+    "date": [
+      3,
+      1,
+      2
+    ],
+    "elderberry": {
+      "fig": "x",
+      "grape": "y"
+    }
+  },
+  "kiwi": [
+    {
+      "lemon": 1,
+      "mango": 2
+    },
+    {
+      "nectarine": 3,
+      "orange": 4
+    }
+  ]
+}
